@@ -1,7 +1,7 @@
 Week 1 Homework
 
 
-1. Extend the circle class so that it also implements the GetArea() --- done
+1. Extend the circle class so that it also implements the GetArea() - done
 
 2. Extend the ShapeColourHelper static class so that it can make a shape a random colour from Yellow, Red, Blue, Green or Orange. --- done
 
